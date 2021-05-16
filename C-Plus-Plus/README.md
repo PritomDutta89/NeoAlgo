@@ -274,10 +274,8 @@
 - [BFS of Binary Tree](ds/BFS_Binary_Tree.cpp)
 - [Prefix to Postfix Conversion](ds/prefix-to-postfix.cpp)
 - [Reverse Linked List Nodes in K-Groups](ds/Reverse_LinkedList_Nodes_in_K-Groups.cpp)
-- [Merge Without Extra Space](ds/Merge_Without_Extra_Space.cpp)
 - [Row with max 1s](ds/Row_with_max_1s.cpp)
-
-## Graphs
+## Graph
 
 - [Adjacency List Representation](graphs/Adjacency_List.cpp)
 - [Articulation points in an Undirected Graph](graphs/Articulation_points.cpp)
